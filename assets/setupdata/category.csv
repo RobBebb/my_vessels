@@ -1,0 +1,7 @@
+code,description,applies_to,colour
+1,At sea,yacht,purple accent-2
+2,In port,yacht,deep-purple accent-2
+3,Out of water,yacht,indigo accent-2
+4,Sick,user,green accent-2
+5,Leave,user,light-green accent-2
+6,Training,user,lime accent-2

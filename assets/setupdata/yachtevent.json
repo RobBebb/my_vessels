@@ -1,0 +1,42 @@
+[
+    {
+        "category_code": 1,
+        "end_date": "2019-02-10",
+        "id": 1,
+        "start_date": "2019-02-01",
+        "timestamp": null,
+        "yacht_id": 1
+    },
+    {
+        "category_code": 2,
+        "end_date": "2019-02-21",
+        "id": 2,
+        "start_date": "2019-02-11",
+        "timestamp": null,
+        "yacht_id": 1
+    },
+    {
+        "category_code": 3,
+        "end_date": "2019-02-25",
+        "id": 3,
+        "start_date": "2019-02-22",
+        "timestamp": null,
+        "yacht_id": 1
+    },
+    {
+        "category_code": 2,
+        "end_date": "2019-03-02",
+        "id": 4,
+        "start_date": "2019-02-26",
+        "timestamp": null,
+        "yacht_id": 1
+    },
+    {
+        "category_code": 3,
+        "end_date": null,
+        "id": 5,
+        "start_date": "2019-03-05",
+        "timestamp": null,
+        "yacht_id": 1
+    }
+]
